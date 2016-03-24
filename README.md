@@ -1,0 +1,1 @@
+This is my test package used in how-to-npm class
